@@ -85,7 +85,7 @@ cleans the workspace and reports success or failure.
 4. **ESLint** underlines lint issues inline, so they're fixed before the
    pipeline ever runs.
 
-## Ideas to extend it (good class exercises)
+## Ideas to extend it
 
 - Add a `develop` branch that deploys to a different environment.
 - Add a **manual approval** gate before production using `input`.
